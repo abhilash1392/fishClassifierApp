@@ -55,9 +55,9 @@ uvicorn fish_classifier:app --reload
 
 
 
-![image](testing\blackSeaSprat.png)
+![image](blackSeaSprat.png)
 
 
 
-![image](Web capture_13-4-2021_155812_127.0.0.1.jpeg)
+![image](fast_api_result.jpeg)
 
